@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Owner\source\repos\Network Loader 3\Network Loader 3\Source.cpp(243,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\source\repos\Network Loader 3\Network Loader 3\Source.cpp(342,20): warning C4018: '<': signed/unsigned mismatch
+  Network Loader 3.vcxproj -> C:\Users\Owner\source\repos\Network Loader 3\Debug\Network Loader 3.exe
