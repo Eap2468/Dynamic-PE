@@ -8,3 +8,5 @@ DO NOTE WINAPI DLLS DO NOT WORK WITH THIS AND THAT WILL NOT BE FIXED (I might do
 To use custom dlls note the __stdcall calling convention must be used with all functions being implimented because the POC parses arguments in the stdcall calling convintion, like winapi functionality, other calling convintions will not be added in a public release
 
 To use simply set the file_path varuable in the sender to the path of the dll you want to load and run the sender and loader (to use on different machines the ips have to be changed because they are hardcoded to localhost port 4444)
+
+Huge credit to https://github.com/adamhlt/Manual-DLL-Loader as the code for managing address relocations and imported libraies was heavily based off the code for his Dll loader
