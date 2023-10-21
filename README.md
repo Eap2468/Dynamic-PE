@@ -1,7 +1,7 @@
 # Dynamic-PE
 POC for making a C++ windows executable that can load and execute functions dynamically at runtime
 
-Provided is a demo dll (Dll5) the sender (Network Sender) and the Loader (Network Loader 3)
+Provided is a demo dll (Dll5), the sender (Network Sender), a Linux version of the sender (LinuxServer.cpp), and the Loader (Network Loader 3)
 
 Not going to put a technical explanation here because the comments in the code do it pretty well
 DO NOTE WINAPI DLLS DO NOT WORK WITH THIS AND THAT WILL NOT BE FIXED (I might do it eventually but that code will be kept private)
