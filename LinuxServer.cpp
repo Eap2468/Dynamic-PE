@@ -11,7 +11,6 @@ int main()
 {
 	const char* file_path = "<PATH TO DLL>";
 
-
 	std::ifstream file(file_path, std::ios::binary);
 	if (file.fail())
 	{
